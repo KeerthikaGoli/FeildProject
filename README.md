@@ -1,0 +1,1 @@
+Developed a web-based feedback management platform for educational institutions using React.js, Node.js, MongoDB, Redux, and JWT. This platform facilitates communication between students, faculty, administrators,and stakeholders.
